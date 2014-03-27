@@ -6,6 +6,12 @@ API version 1
 Version 1 of the API is still in development and subject to
 changes.
 
+.. note::
+    You'll only need to read this documentation if you're
+    interacting with the API personally. If you're using
+    a library you should refer to its own documentation.
+    See :ref:`libraries`.
+
 
 .. _authentication:
 
