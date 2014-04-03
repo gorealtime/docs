@@ -20,8 +20,13 @@ Contents:
 What is gorealtime?
 --------------------
 
-Gorealtime aims to completely remove all pain endured when
-attempting to integrate websockets in your applications.
+At it's core, gorealtime is a service that aims to simplify
+the use of realtime technologies in your applications.
+
+By removing the need to manage servers, write tons of
+boilerplate code and then maintain both of these,
+gorealtime is the easiest way to integrate realtime tech
+available.
 
 By consuming our simple HTTP-based API and making use of
 a javascript library you're able to get up and running
