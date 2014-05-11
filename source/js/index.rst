@@ -36,21 +36,6 @@ Basic Usage Example
         :param string channel: The name of a subscribed channel
 
 
-    .. js:function:: subscribe(channel[, channel, ...])
-
-        Subscribes to updates to these channels.
-        All arguments to this function are considered to be channels
-
-        :param string channel: The name of a channel to subscribe to
-
-    .. js:function:: unsubscribe(channel[, channel, ...])
-
-        Unsubscribes from updates to these channels.
-        All arguments to this function are considered to be channels
-
-        :param string channel: The name of a channel to unsubscribe from
-
-
 .. _js_callbacks:
 
 Callbacks
