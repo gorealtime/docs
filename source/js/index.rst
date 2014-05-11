@@ -49,5 +49,6 @@ structured like so.
     {
         "type": "message",
         "channel": "my_chan",
-        "message": "Hello World!"
+        "message": "Hello World!",
+        "received": 1399841133,
     }
