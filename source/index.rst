@@ -1,4 +1,4 @@
-.. gorealtime documentation master file, created by
+.. spate documentation master file, created by
    sphinx-quickstart on Wed Mar 26 19:19:42 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -18,15 +18,15 @@ Contents:
 .. _getting started:
 
 
-What is gorealtime?
+What is spate?
 --------------------
 
-At it's core, gorealtime is a service that aims to simplify
+At it's core, spate is a service that aims to simplify
 the use of realtime technologies in your applications.
 
 By removing the need to manage servers, write tons of
 boilerplate code and then maintain both of these,
-gorealtime is the easiest way to integrate realtime tech
+spate is the easiest way to integrate realtime tech
 available.
 
 By consuming our simple HTTP-based API and making use of
@@ -37,7 +37,7 @@ with under 10 lines of code!
 Your first application
 -----------------------
 
-Before you're able to do anything on gorealtime you must
+Before you're able to do anything on spate you must
 create an application. This is a straightforward
 process so this guide won't cover it in detail.
 
@@ -63,7 +63,7 @@ Libraries
 ----------
 
 A handful of language libraries are available for use
-and can be found `on GitHub <https://github.com/gorealtime>`_.
+and can be found `on GitHub <https://github.com/spateio>`_.
 
 Please refer to the specific library documentation if you
 choose to use one.
