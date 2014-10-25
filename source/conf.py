@@ -146,7 +146,7 @@ html_static_path = ['_static']
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
    '**': [
-       'about.html', 'navigation.html', 'searchbox.html', 'donate.html',
+       'about.html', 'navigation.html', 'searchbox.html',
    ]
 }
 
