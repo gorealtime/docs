@@ -42,9 +42,9 @@ create an application. This is a straightforward
 process so this guide won't cover it in detail.
 
 First you'll need to register a user account `here
-<https://preview.gorealtime.io/account/register>`_. Once
+<https://spate.io/account/register>`_. Once
 that's done you're able to create an application on
-the `new application <https://preview.gorealtime.io/applications/new>`_
+the `new application <https://spate.io/applications/new>`_
 page.
 
 After creating your application you'll be taken to the

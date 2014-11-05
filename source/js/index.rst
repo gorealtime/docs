@@ -8,12 +8,12 @@ Basic Usage Example
 
 .. sourcecode:: javascript
 
-    var client = new Gorealtime('<APP_KEY>')
+    var client = new Spate('<APP_KEY>')
     client.on('my_channel', function(data) {
         alert(data.message);
     });
 
-.. js:class:: Gorealtime(app_key, verbose)
+.. js:class:: Spate(app_key, verbose)
 
     :param string app_key: Your application key (**not** secret!)
     :param boolean verbose: Log messages to console if true (default ``false``)
