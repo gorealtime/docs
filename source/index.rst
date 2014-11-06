@@ -78,4 +78,4 @@ Support
 --------
 
 If you are unable to find what you're looking for in these docs
-please email support@gorealtime.io or join #gorealtime on freenode.
+please email support@spate.io.
