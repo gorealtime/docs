@@ -62,11 +62,12 @@ is the application key & secret anyway.
 Libraries
 ----------
 
-A handful of language libraries are available for use
-and can be found `on GitHub <https://github.com/spateio>`_.
+Some recommended libraries are listed below for each language.
+Don't see a library for a language you use? Why not write one?
+Our :ref:`API <api latest>` is super simple to use!
 
-Please refer to the specific library documentation if you
-choose to use one.
+
+- `Python <https://github.com/spateio/spate-python>`_ (`docs <http://spate-python.readthedocs.org/en/latest/>`_)
 
 If you're unable to find a library that takes your fancy why not
 write one using the :ref:`API documentation <api latest>`
